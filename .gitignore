@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python / Django
+venv/
+env/
+__pycache__/
+*.py[cod]
+db.sqlite3
+.env
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.npm
